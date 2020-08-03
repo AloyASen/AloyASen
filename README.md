@@ -26,7 +26,7 @@
 - 🌱 I’m making a [Learning Management System](https://products.radii.in/)
 - 👯 I’m looking to collaborate on [a multi-Server multi-Tenant microkernel-based Operating System](https://youtube.com/mtechviral).
 - 💬 Ask me about C/C++ or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me: [twitter - @voiceOsen](https://twitter.com/voiceOsen) , [facebook - @aloy.sen.18](https://www.facebook.com/aloy.sen.18)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours Jogging everyday.
 
