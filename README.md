@@ -22,13 +22,13 @@
 
 
 
-- 🔭 I’m currently working on [Nritya Lang](github.com/Nritya-Lang).
+- 🔭 I’m currently working on [Nritya Lang](github.com/Nritya-Lang), for directed lever motion planning and scriptable compartmentaization in future robots
 - 🌱 I’m making a [scriptable System for robotic collaboration](https://products.radii.in/nrityaLang.html)
 - 👯 I’m looking to collaborate on [a multi-Server multi-Tenant microkernel-based Operating System](https://products.radii.in/radiiOS.html).
 - 💬 Ask me about C/C++ or any tech related stuff.
 - 📫 How to reach me: [twitter - @voiceOsen](https://twitter.com/voiceOsen) , [facebook - @aloy.sen.18](https://www.facebook.com/aloy.sen.18)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 2 hours Jogging everyday.
+- ⚡ Fun fact: I spend almost 2 hours Jogging everyday, 400 m in 45.30 sec 
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/voiceOsen)](https://twitter.com/voiceOsen)
 [![Linkedin: AdityaASen](https://img.shields.io/badge/-aloyadityasen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloyadityasen/)](https://www.linkedin.com/in/imthepk/)
