@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I spend almost 2 hours Jogging everyday, 400 m in 45.30 sec 
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/voiceOsen)](https://twitter.com/voiceOsen)
-[![Linkedin: AdityaASen](https://img.shields.io/badge/-aloyadityasen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloyadityasen/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: AdityaASen](https://img.shields.io/badge/-aloyadityasen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloyadityasen/)](https://www.linkedin.com/in/aloyadityasen/)
 [![GitHub AloyASen](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/AloyASen)
 
 
