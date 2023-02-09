@@ -23,8 +23,8 @@
 
 
 - 🔭 I’m currently working on [Nritya Lang](github.com/Nritya-Lang), for directed lever motion planning and scriptable compartmentaization in future robots
-- 🌱 I’m making a [scriptable System for robotic collaboration](https://products.radii.in/nrityaLang.html)
-- 👯 I’m looking to collaborate on [a multi-Server multi-Tenant microkernel-based Operating System](https://products.radii.in/radiiOS.html).
+- 🌱 I’m making a [scriptable level-3 autiomated trading System](https://products.radii.in/nrityaLang.html)
+- 👯 I’m looking to collaborate on Software Testing as last I have been employed as SDET.
 - 💬 Ask me about C/C++, JS or any related stuff.
 - 📫 How to reach me: [twitter - @voiceOsen](https://twitter.com/voiceOsen) , [facebook - @aloy.sen.18](https://www.facebook.com/aloy.sen.18)
 - 😄 Pronouns: He/His
