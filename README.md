@@ -79,42 +79,15 @@ https://github.com/AloyASen/AloyASen/blob/master/Resume%20Final%20Aloy%20A%20Sen
   <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AloyASen&show_icons=true&theme=dark&line_height=27" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloyASen&theme=dark&layout=compact" />
-</p>
 
 ---
 
-### 📌 Featured Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=layrZero&repo=layr0&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aitrade-ing&repo=tradebots&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AloyASen&repo=llvmTutorial&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=radiilab&repo=teleport-SIM&theme=dark" />
-</p>
-
----
 
 ### 🏃 Personal
 - **Pronouns:** He/Him  
-- **Fitness:** Daily endurance running; 400m in **45.30s**
-
+- **Athletics & Mindset:** My journey started on the track. As a teenager, I competed as a sprinter, recording a **South Asian Federation–recognized** 400m time of **45.30s** and a 100m personal best of **10.96s** (2012, age 18).  
+  Over time, my focus evolved from raw speed to endurance — today I train and compete as a **5K and 10K distance runner**.  
+- **From Track to Systems:** That transition mirrors my professional path. I moved from athletics into **computing and engineering**, carrying forward the same principles: discipline, iteration, respect for fundamentals, and patience over long horizons. Whether building trading systems, AI infrastructure, or low-latency software, I approach engineering the way I trained — **measure, refine, and execute with intent**.
 ---
 
 <div align="center">
