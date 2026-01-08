@@ -1,65 +1,124 @@
-## Hola, I'm [Aditya A Sen!](www.linkedin.com/in/aloyadityasen) 👋
+## Hi, I’m Aditya A. Sen 👋  
+**Algorithmic Trading | AI Systems | Software Test & Audit Engineering**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AloyASen&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AloyASen&label=Profile%20Views&color=0e75b6&style=flat" alt="AloyASen" />
+</p>
 
-<a href="https://twitter.com/voiceOsen">
-  <img align="left" alt="Aditya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aloyadityasen/">
-  <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AloyASen">
-  <img align="left" alt="Aditya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p align="left">
+  <a href="https://twitter.com/voiceOsen">
+    <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aloyadityasen/">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AloyASen">
+    <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/aloy.sen.18">
+    <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+</p>
 
-<a href="https://www.facebook.com/aloy.sen.18">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+---
 
+### 👨‍💻 About Me
+I’m an **Algorithmic Trading & AI Engineer** with professional experience as a **Software Test and Audit Engineer (SDET)**.  
+My work focuses on **low-latency trading systems**, **market microstructure**, **AI-driven strategies**, and **high-reliability software architectures**.
 
-<br/>
-<br/>
+I build systems where **performance, correctness, and risk control** are non-negotiable.
 
+---
 
+### 🔭 What I’m Working On
+- **🧠 Nritya Lang** – A domain-specific language for **directed lever motion planning** and **scriptable compartmentalization** in future robotic systems  
+  👉 https://github.com/Nritya-Lang
 
-- 🔭 I’m currently working on [Nritya Lang](github.com/Nritya-Lang), for directed lever motion planning and scriptable compartmentaization in future robots
-- 🌱 I’m making a [scriptable level-3 autiomated trading System](https://github.com/Radii-Holdings/Zerodha-Auto-Trader).
-- 👯 I’m looking to collaborate on [Software Testing as last I have been employed as SDET](https://github.com/AloyASen/AloyASen/blob/master/Resume%20Final%20Aloy%20A%20Sen.pdf).
-- 💬 Ask me about C/C++, JS or any related stuff.
-- 📫 How to reach me: [twitter - @voiceOsen](https://twitter.com/voiceOsen) , [facebook - @aloy.sen.18](https://www.facebook.com/aloy.sen.18)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 2 hours Jogging everyday, 400 m in 45.30 sec 
+- **📈 Layr0** – A modular **algorithmic trading infrastructure** designed for **multi-broker execution**, **strategy isolation**, **risk controls**, and **low-latency order routing**  
+  👉 https://github.com/layrZero
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/voiceOsen)](https://twitter.com/voiceOsen)
-[![Linkedin: AdityaASen](https://img.shields.io/badge/-aloyadityasen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aloyadityasen/)](https://www.linkedin.com/in/aloyadityasen/)
-[![GitHub AloyASen](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/AloyASen)
+- **🤖 AI TradeBots** – AI-powered **automated trading bots** for **Indian equity & derivatives markets** and **Forex**, supporting strategy scripting, live execution, and backtesting  
+  👉 https://github.com/aitrade-ing
 
+- **📊 Level-3 Scriptable Automated Trading System** – Event-driven trading systems with **order-flow awareness** and **market depth analysis**  
+  👉 https://github.com/Radii-Holdings/Zerodha-Auto-Trader
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### 🤝 Open to Collaboration
+- Algorithmic trading & execution systems  
+- AI/ML-driven trading strategies  
+- Software testing, audit, and reliability engineering  
+- Market simulators & backtesting frameworks  
 
-<a href="https://github.com/AloyASen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloyASen&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/AloyASen">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AloyASen&show_icons=true&theme=dark&line_height=27" alt="Aditya's github stats"/>
-</a>
-<a href="https://github.com/AloyASen/llvmTutorial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AloyASen&repo=llvmTutorial&theme=dark" />
+📄 **Resume:**  
+https://github.com/AloyASen/AloyASen/blob/master/Resume%20Final%20Aloy%20A%20Sen.pdf
 
-</a>
-<a href="https://github.com/radiilab/teleport-SIM">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=radiilab&repo=teleport-SIM&theme=dark" />
-</a>
+---
+
+### 💬 Ask Me About
+- C / C++ (low-latency & systems programming)
+- JavaScript / Node.js
+- Algorithmic & AI-based trading systems
+- Indian markets (NSE/BSE) & Forex trading
+- Test automation, audits, and system validation
+
+---
+
+### 🧰 Languages & Tools
+<p>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"/>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AloyASen&show_icons=true&theme=dark&line_height=27" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloyASen&theme=dark&layout=compact" />
+</p>
+
+---
+
+### 📌 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=layrZero&repo=layr0&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aitrade-ing&repo=tradebots&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AloyASen&repo=llvmTutorial&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=radiilab&repo=teleport-SIM&theme=dark" />
+</p>
+
+---
+
+### 🏃 Personal
+- **Pronouns:** He/Him  
+- **Fitness:** Daily endurance running; 400m in **45.30s**
+
+---
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### ⭐ If you find my work useful, consider starring a repository
 
 </div>
-
