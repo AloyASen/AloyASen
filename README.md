@@ -55,7 +55,7 @@ I build systems where **performance, correctness, and risk control** are non-neg
 - Market simulators & backtesting frameworks  
 
 📄 **Resume:**  
-https://github.com/AloyASen/AloyASen/blob/master/Resume%20Final%20Aloy%20A%20Sen.pdf
+[Copy of Resume wef DEC 2024.pdfCopy of Resume wef DEC 2024.pdf](https://github.com/AloyASen/AloyASen/blob/bcfffc2396768cb503e6fe0eda20180d01e6bbbe/Copy%20of%20Resume%20wef%20DEC%202024.pdf)
 
 ---
 
